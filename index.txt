@@ -1,0 +1,1 @@
+ini tempat ngetes aja, dan perlu diketahui ini nama u atau untracked dimana saat mau commit harus dimasukkin ke staging area dulu yaa
